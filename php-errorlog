@@ -1,0 +1,61 @@
+[19-Aug-2025 11:52:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'blogger')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/index.php(1): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+[19-Aug-2025 11:52:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'blogger')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/index.php(1): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+[19-Aug-2025 11:52:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'blogger')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/index.php(1): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+[19-Aug-2025 11:52:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'blogger')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/index.php(1): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+[19-Aug-2025 11:53:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'blogger')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/index.php(1): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+[19-Aug-2025 12:04:54 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_username'@'localhost' (using password: YES) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:13
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(13): mysqli->__construct('localhost', 'your_db_usernam...', Object(SensitiveParameterValue), 'your_db_name')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/post.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 13
+[19-Aug-2025 12:05:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'your_db_username'@'localhost' (using password: YES) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:13
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(13): mysqli->__construct('localhost', 'your_db_usernam...', Object(SensitiveParameterValue), 'your_db_name')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/post.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 13
+[19-Aug-2025 13:09:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'YOUR_DB_USERNAME'@'localhost' (using password: YES) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'YOUR_DB_USERNAM...', Object(SensitiveParameterValue), 'YOUR_DB_NAME')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/categories.php(2): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+[28-Aug-2025 12:15:20 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'YOUR_DB_USERNAME'@'localhost' (using password: YES) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'YOUR_DB_USERNAM...', Object(SensitiveParameterValue), 'YOUR_DB_NAME')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/index.php(1): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+[28-Aug-2025 12:15:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'YOUR_DB_USERNAME'@'localhost' (using password: YES) in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php:7
+Stack trace:
+#0 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php(7): mysqli->__construct('localhost', 'YOUR_DB_USERNAM...', Object(SensitiveParameterValue), 'YOUR_DB_NAME')
+#1 /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/index.php(1): include('/home/customer/...')
+#2 {main}
+  thrown in /home/customer/www/rsoa160.millioncoders.net/public_html/blogger/db.php on line 7
+ 
